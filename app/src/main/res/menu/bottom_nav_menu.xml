@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    <item-->
+<!--        android:title="Berita"-->
+<!--        android:id="@+id/navBerita"-->
+<!--        android:icon="@drawable/ic_berita"/>-->
+
+<!--    <item-->
+<!--        android:title="Profile"-->
+<!--        android:id="@+id/navProfile"-->
+<!--        android:icon="@drawable/ic_person"/>-->
+
+<!--    <item-->
+<!--        android:title="Masukan"-->
+<!--        android:id="@+id/navMasukan"-->
+<!--        android:icon="@drawable/ic_masukan"/>-->
+</menu>
